@@ -1,0 +1,7 @@
+C:\Users\jklug_000\Documents\repos\CharacterArchive\bin\Debug\CharacterArchive.exe.config
+C:\Users\jklug_000\Documents\repos\CharacterArchive\bin\Debug\CharacterArchive.exe
+C:\Users\jklug_000\Documents\repos\CharacterArchive\bin\Debug\CharacterArchive.pdb
+C:\Users\jklug_000\Documents\repos\CharacterArchive\obj\Debug\CharacterArchive.csprojAssemblyReference.cache
+C:\Users\jklug_000\Documents\repos\CharacterArchive\obj\Debug\CharacterArchive.csproj.CoreCompileInputs.cache
+C:\Users\jklug_000\Documents\repos\CharacterArchive\obj\Debug\CharacterArchive.exe
+C:\Users\jklug_000\Documents\repos\CharacterArchive\obj\Debug\CharacterArchive.pdb
